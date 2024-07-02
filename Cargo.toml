@@ -1,0 +1,30 @@
+[package]
+name = "escoba"
+version = "1.0.0"
+edition = "2021"
+license = "BSD-3-Clause"
+build = "build.rs"
+
+readme = "README.md"
+repository = "https://github.com/gatomod/escoba"
+description = "Useful broom to clean your RAM in Window$"
+keywords = [
+    "broom",
+    "broomstick",
+    "escoba",
+    "windows",
+    "garbage",
+    "memory",
+    "wtf",
+    "lmao",
+    "clean",
+    "cleaner",
+    "ram",
+]
+
+[package.metadata.winresource]
+LegalCopyright = "Copyright (c) 2024 Gátomo"
+OriginalFilename = "escoba.exe"
+
+[build-dependencies]
+winresource = "0"
