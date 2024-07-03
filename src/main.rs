@@ -3,7 +3,7 @@ use std::process::exit;
 fn main() {
     if cfg!(windows) {
         println!(
-            "Escoba version {} - Copyright (c) 2024 Gátomo\n Useful broom to clean your RAM in Window$\n\n Made with hatred towards Micro$oft by Gátomo\n https://github.com/gatomod/escoba\n",
+            "Escoba version {} - Copyright (c) 2024 Gátomo\n The definitive broom to clean your RAM in Window$\n\n Made with hatred towards Micro$oft by Gátomo\n https://github.com/gatomod/escoba\n",
             option_env!("CARGO_PKG_VERSION").unwrap_or("😿")
         );
 
