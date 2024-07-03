@@ -1,7 +1,10 @@
-# Escoba 🧹😿
-## Useful broom to clean your RAM in Window$
+![logo](assets/banner.png)
 
-Escoba is the definitive tool for your day-to-day, you can save up to 80% of RAM by just using this tool, without closing any program or tab in your browser!
+Escoba is the definitive broom for your day-to-day, you can save up to 80% of RAM by just using whatever is this program, without closing any program or tab in your browser!
+
+## Downloads
+
+You can download Escoba from [releases](https://github.com/gatomod/escoba/releases).
 
 ## Why?
 
@@ -17,12 +20,35 @@ Escoba has an advanced complex AI algorithm that pushes useless data into a vect
 
 This doesn't work on other OS (like Linux) because unlike Window$, memory allocators are well designed.
 
+## Comparison
+
+Escoba is better than CCleaner in all aspects. Just see this table to see the benefits of using Escoba over CCleaner:
+
+|                          | Escoba | CCleaner |
+| ------------------------ | ------ | -------- |
+| Efficient memory clean   | ✅      | ❌        |
+| Open source              | ✅      | ❌        |
+| Secure                   | ✅      | ❌        |
+| Simple                   | ✅      | ❌        |
+| Free without ads         | ✅      | ❌        |
+| Is a broom               | ✅🧹     | ❌        |
+| Has annoying banners     | ❌      | ✅        |
+| Removes critical files   | ❌      | ✅        |
+| Boilerplate              | ❌      | ✅        |
+| Is a spy Chinese balloon | ❌      | ✅🎈       |
+
+Definitively CCleaner is holy trash, Escoba has 7291 useful features that anyone can use easily.
+
 ## Showcase
 
 These screenshots show the unlimited power of Escoba. Thanks to [tnfAngel](https://github.com/tnfangel) for testing and sharing the screenshots!
+
 Before Escoba execution, RAM usage was 43 GB. After a minute, RAM usage was 14 GB, that's 29 GB saved what the fuck is wrong with Micro$oft engineers? Sure they stole the allocator to someone like most of their products.
 
+Escoba also helps the CPU by underclocking your CPU to 0 GHz
+
 ![Before](assets/showcase_tnfangel_1.png)
+
 ![After](assets/showcase_tnfangel_2.png)
 
 ## License
