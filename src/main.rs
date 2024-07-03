@@ -14,7 +14,7 @@ fn main() {
         println!("Sweeping...");
 
         loop {
-            escoba.push(7251);
+            escoba.push(7291);
         }
     } else {
         println!("You don't need this escoba to clean your RAM because you're not in Window$ (that means that your OS has a decent memory allocator)");
