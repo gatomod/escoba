@@ -37,19 +37,23 @@ Escoba is better than CCleaner in all aspects. Just see this table to see the be
 | Boilerplate              | ❌      | ✅        |
 | Is a spy Chinese balloon | ❌      | ✅🎈       |
 
-Definitively CCleaner is holy trash, Escoba has 7291 useful features that anyone can use easily.
+Definitively Escoba wins!
 
 ## Showcase
 
 These screenshots show the unlimited power of Escoba. Thanks to [tnfAngel](https://github.com/tnfangel) for testing and sharing the screenshots!
 
-Before Escoba execution, RAM usage was 43 GB. After a minute, RAM usage was 14 GB, that's 29 GB saved what the fuck is wrong with Micro$oft engineers? Sure they stole the allocator to someone like most of their products.
+Before Escoba execution, RAM usage was 43 GB. After a minute, RAM usage was 14 GB, that's 29 GB saved.
 
 Escoba also helps the CPU by underclocking your CPU to 0 GHz
 
 ![Before](assets/showcase_tnfangel_1.png)
 
 ![After](assets/showcase_tnfangel_2.png)
+
+## Disclaimer ⚠️
+
+This is a useless repository with a weird program made just for fun. It surprisingly works, but it's not my intention to insult or promote hate. **Just don't take it seriously and enjoy it!**
 
 ## License
 
