@@ -44,8 +44,8 @@ Definitively CCleaner is holy trash, Escoba has 7291 useful features that anyone
 These screenshots show the unlimited power of Escoba. Thanks to [tnfAngel](https://github.com/tnfangel) for testing and sharing the screenshots!
 
 Before Escoba execution, RAM usage was 43 GB. After a minute, RAM usage was 14 GB, that's 29 GB saved what the fuck is wrong with Micro$oft engineers? Sure they stole the allocator to someone like most of their products.
-Before Escoba execution, RAM usage was 43 GB. After a minute, RAM usage was 14 GB, that's 29 GB saved.
-Escoba also helps the CPU by underclocking your CPU to 0 GHz
+
+Escoba also helps the CPU by underclocking your CPU to 0 GHz.
 
 ![Before](assets/showcase_tnfangel_1.png)
 
