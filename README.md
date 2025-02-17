@@ -53,7 +53,7 @@ Escoba also helps the CPU by underclocking your CPU to 0 GHz.
 
 ## Disclaimer
 
-This is a useless repository with a weird program made just for fun. It surprisingly works, but it's not my intention to insult or promote hate. **Just don't take it seriously and enjoy it!**
+This is just a funny repository with a funny program. It surprisingly works, but it's not my intention to insult or promote hate. **Just don't take it seriously and enjoy it!**
 
 ## License
 
